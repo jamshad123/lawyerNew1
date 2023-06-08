@@ -1,0 +1,32 @@
+.news-feed-header {
+    display: flex;
+    justify-content: space-between;
+}
+.news-feed-header .right-sec ,.news-feed-header .left-sec{
+    display: flex;
+    align-items: center;
+}
+.news-text{
+    font-family: Open Sans;
+    font-weight: bold;
+    font-size: 25px;
+    padding-left: 30px;
+} 
+.left-sec{
+    padding-left: 10px;
+    padding-top: 50px;
+    padding-bottom: 400px;
+}
+.right-sec{
+    padding-right: 50px;
+    padding-top: 50px;
+    font-size: 25px;
+    padding-bottom: 400px;
+}
+.card-grid{
+    width: 400px;
+    height: 400px;
+    padding-top: 200px; 
+    margin-right: 600px;
+}
+

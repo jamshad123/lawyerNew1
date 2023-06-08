@@ -1,0 +1,19 @@
+footer.bottomfooter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #FFFFFF;
+border-radius: 0px 0px 15px 15px;
+padding: 10px 10px;
+
+}
+.add-post-button{
+    display: flex;
+    justify-content: right;
+    padding-top: 140px;
+    padding-bottom: 50px;
+}
+body{
+    background: #E4EDF3;
+
+}

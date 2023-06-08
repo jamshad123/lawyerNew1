@@ -1,0 +1,9 @@
+.news-feed-header {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 0px;
+}
+.news-feed-header .right-sec ,.news-feed-header .left-sec{
+    display: flex;
+    align-items: center;
+}
